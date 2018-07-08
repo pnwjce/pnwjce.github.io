@@ -1,0 +1,52 @@
+html {
+    height: 100%;
+  }
+ body {
+     width: 1080px;
+     margin: 0 auto;
+     padding-top: 10px;
+     height: 100%;
+  }
+ header {
+      background-color:rgb(10, 104, 88);
+      color:rgb(244, 247, 80);
+      text-align: center;
+      padding: 10px;
+      font-size: 20px;
+      display: block;
+      width: 1080px;
+  }
+ nav {
+      line-height:30px;
+      background-color:#52a388ee;
+      min-height:100%;
+      width:15%;
+      display: inline-block;
+      vertical-align: top;
+      padding: 5px;
+      font-size: 18px;
+  }
+ nav ul {
+      list-style-type: square;
+  }
+ a {
+     color: black;
+  }
+ section {
+      width: 75%;
+      display: inline-block;
+      text-align: center;
+  }
+  #messygarage {  border-radius: 50px;}
+  #messygarage {
+      max-width: 100%;
+  }
+  
+  footer {
+    width: 1080px;
+    background-color:black;
+    color:white;
+    text-align: center;
+    padding: 5px;
+    display: block;
+}
